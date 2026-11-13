@@ -1,0 +1,44 @@
+name: Bug report
+description: Something in this repository is wrong, broken or out of date.
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for taking the time to report this.
+
+        - **Security vulnerability?** Do not file it here. Follow the [security policy](https://wonmor.io/security/).
+        - **Bug in a dtwin product** such as dtwin, bitg or TeleTwin? Open it in the product's repository at [github.com/dtwinuz](https://github.com/dtwinuz), or say the product name on Telegram if it has no public repository.
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: What you saw, and what you expected to see instead.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: The exact steps, file or link, so someone else can see the same thing.
+      placeholder: |
+        1. Open ...
+        2. Click ...
+        3. See ...
+    validations:
+      required: true
+  - type: input
+    id: where
+    attributes:
+      label: Where
+      description: The file, page or URL, and the version or commit if you know it.
+  - type: input
+    id: platform
+    attributes:
+      label: Platform
+      description: Operating system, browser or app, if it matters.
+  - type: textarea
+    id: extra
+    attributes:
+      label: Anything else
+      description: Screenshots, logs or links. Remove personal data and credentials first.

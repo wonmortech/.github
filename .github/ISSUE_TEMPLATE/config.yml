@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report a security vulnerability
+    url: https://wonmor.io/security/
+    about: Please do not report vulnerabilities in public issues. The policy explains how to report privately.
+  - name: A bug or idea for a dtwin product
+    url: https://github.com/dtwinuz
+    about: The product code lives in the dtwinuz organization. Open the issue in the product's repository.
+  - name: Ask a question
+    url: https://t.me/xnosir
+    about: Telegram is the fastest way to reach Wonmor. Write in Uzbek, Russian or English.
