@@ -27,6 +27,9 @@ The product code lives in **[github.com/dtwinuz](https://github.com/dtwinuz)**. 
 | [design-system](https://github.com/wonmortech/design-system) | Wonmor design tokens (`@wonmor/tokens`): colour, type, spacing, motion | MIT |
 | [brand](https://github.com/wonmortech/brand) | The Wonmor mark, lockups, colours, brand film and the rules for using them | See repo |
 | [open-source-fund](https://github.com/wonmortech/open-source-fund) | The planned Wonmor Open Source Fund. Not accepting applications yet. | See repo |
+| [muhr](https://github.com/wonmortech/muhr) | Planned: timestamp proofs for files, anchored to Bitcoin through OpenTimestamps and an open log. No tokens. Demo at [muhr.wonmor.io](https://muhr.wonmor.io) | Apache-2.0 |
+| [sanad](https://github.com/wonmortech/sanad) | Planned: verifiable certificates and badges (W3C Verifiable Credentials 2.0), checked offline. No tokens. Demo at [sanad.wonmor.io](https://sanad.wonmor.io) | Apache-2.0 |
+| [shaffof](https://github.com/wonmortech/shaffof) | Planned: charity reports sealed with Merkle roots, and a sourced zakat calculator after scholar review. Never handles money. Demo at [shaffof.wonmor.io](https://shaffof.wonmor.io) | Apache-2.0 |
 | [.github](https://github.com/wonmortech/.github) | This profile, contributing guide, code of conduct and security policy | — |
 
 ## Products
