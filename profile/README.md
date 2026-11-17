@@ -12,6 +12,8 @@
   <a href="https://wonmor.io/security/"><img alt="Security policy" src="https://img.shields.io/badge/security-report%20privately-090A1E?style=flat-square"></a>
 </p>
 
+**Live demos: [wonmor.io/demo/](https://wonmor.io/demo/)**: every demo runs the real interface on sample or open data, in the browser, with nothing to install.
+
 Wonmor is a self-funded brand from Uzbekistan that builds and supports the **dtwin ecosystem**: a personal planner anchored to the five daily prayers, an open-source Uzbek keyboard, and the tools and infrastructure around them. It is not a company: there is no legal entity, no board and no investors. One founder builds the products, working with AI agents, and every change goes through a pull request, continuous integration and a human merge.
 
 ## Repositories
@@ -22,9 +24,9 @@ The product code lives in **[github.com/dtwinuz](https://github.com/dtwinuz)**. 
 |---|---|---|
 | [wonmor.io](https://github.com/wonmortech/wonmor.io) | Source of [wonmor.io](https://wonmor.io) in English, Uzbek and Russian: Astro, deployed by GitHub Actions on every merge | — |
 | [research](https://github.com/wonmortech/research) | Reproducible material behind the posts on [wonmor.io/research](https://wonmor.io/research/) | MIT |
-| [uz-open-data](https://github.com/wonmortech/uz-open-data) | Open data for Uzbekistan: mosques from OpenStreetMap, the Uzbek Cyrillic to Latin table | MIT |
+| [uz-open-data](https://github.com/wonmortech/uz-open-data) | Open data for Uzbekistan: 2,289 mosques from OpenStreetMap, the Uzbek Cyrillic to Latin table. Explorer at [wonmor.io/demo/uz-open-data](https://wonmor.io/demo/uz-open-data/) | MIT (data: ODbL) |
 | [deploy-kit](https://github.com/wonmortech/deploy-kit) | Zero-downtime static site deploys: releases, symlink swap, Caddy reload, rollback | MIT |
-| [design-system](https://github.com/wonmortech/design-system) | Wonmor design tokens (`@wonmor/tokens`): colour, type, spacing, motion | MIT |
+| [design-system](https://github.com/wonmortech/design-system) | Wonmor design tokens (`@wonmor/tokens`): colour, type, spacing, motion. Playground at [wonmor.io/demo/design-system](https://wonmor.io/demo/design-system/) | MIT |
 | [brand](https://github.com/wonmortech/brand) | The Wonmor mark, lockups, colours, brand film and the rules for using them | See repo |
 | [open-source-fund](https://github.com/wonmortech/open-source-fund) | The planned Wonmor Open Source Fund. Not accepting applications yet. | See repo |
 | [muhr](https://github.com/wonmortech/muhr) | Planned: timestamp proofs for files, anchored to Bitcoin through OpenTimestamps and an open log. No tokens. Demo at [muhr.wonmor.io](https://muhr.wonmor.io) | Apache-2.0 |
